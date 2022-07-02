@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Insights-ReactNotesApp/static/css/main.21c4762a.css",
+    "main.js": "/Insights-ReactNotesApp/static/js/main.30df87f3.js",
+    "index.html": "/Insights-ReactNotesApp/index.html",
+    "main.21c4762a.css.map": "/Insights-ReactNotesApp/static/css/main.21c4762a.css.map",
+    "main.30df87f3.js.map": "/Insights-ReactNotesApp/static/js/main.30df87f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21c4762a.css",
+    "static/js/main.30df87f3.js"
+  ]
+}
