@@ -17,5 +17,4 @@ const Header = ({ handleToggleDarkMode }) => {
 		</div>
 	);
 };
-
 export default Header;
