@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Insights-ReactNotesApp/static/css/main.21c4762a.css",
-    "main.js": "/Insights-ReactNotesApp/static/js/main.30df87f3.js",
+    "main.js": "/Insights-ReactNotesApp/static/js/main.039639bf.js",
     "index.html": "/Insights-ReactNotesApp/index.html",
     "main.21c4762a.css.map": "/Insights-ReactNotesApp/static/css/main.21c4762a.css.map",
-    "main.30df87f3.js.map": "/Insights-ReactNotesApp/static/js/main.30df87f3.js.map"
+    "main.039639bf.js.map": "/Insights-ReactNotesApp/static/js/main.039639bf.js.map"
   },
   "entrypoints": [
     "static/css/main.21c4762a.css",
-    "static/js/main.30df87f3.js"
+    "static/js/main.039639bf.js"
   ]
 }
